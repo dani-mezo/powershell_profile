@@ -1,1 +1,2 @@
-# powershell_profile
+Put this file under
+> C:\Users\<user>\Documents\WindowsPowerShell\
