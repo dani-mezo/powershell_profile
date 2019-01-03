@@ -1,2 +1,2 @@
 Put this file under
-> C:\Users\<user>\Documents\WindowsPowerShell\
+> C:\Users\user\Documents\WindowsPowerShell\
